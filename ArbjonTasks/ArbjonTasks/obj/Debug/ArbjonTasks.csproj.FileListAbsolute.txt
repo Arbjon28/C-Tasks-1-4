@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ArbjonTasks\ArbjonTasks\bin\Debug\ArbjonTasks.exe.config
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ArbjonTasks\ArbjonTasks\bin\Debug\ArbjonTasks.exe
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ArbjonTasks\ArbjonTasks\bin\Debug\ArbjonTasks.pdb
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ArbjonTasks\ArbjonTasks\obj\Debug\ArbjonTasks.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ArbjonTasks\ArbjonTasks\obj\Debug\ArbjonTasks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ArbjonTasks\ArbjonTasks\obj\Debug\ArbjonTasks.exe
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ArbjonTasks\ArbjonTasks\obj\Debug\ArbjonTasks.pdb

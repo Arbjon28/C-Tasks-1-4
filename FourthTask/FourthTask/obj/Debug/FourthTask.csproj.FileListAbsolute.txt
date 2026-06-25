@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\FourthTask\FourthTask\bin\Debug\FourthTask.exe.config
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\FourthTask\FourthTask\bin\Debug\FourthTask.exe
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\FourthTask\FourthTask\bin\Debug\FourthTask.pdb
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\FourthTask\FourthTask\obj\Debug\FourthTask.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\FourthTask\FourthTask\obj\Debug\FourthTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\FourthTask\FourthTask\obj\Debug\FourthTask.exe
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\FourthTask\FourthTask\obj\Debug\FourthTask.pdb

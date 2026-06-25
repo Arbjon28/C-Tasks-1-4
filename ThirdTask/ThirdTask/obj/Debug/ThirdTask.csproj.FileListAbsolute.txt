@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ThirdTask\ThirdTask\bin\Debug\ThirdTask.exe.config
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ThirdTask\ThirdTask\bin\Debug\ThirdTask.exe
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ThirdTask\ThirdTask\bin\Debug\ThirdTask.pdb
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ThirdTask\ThirdTask\obj\Debug\ThirdTask.exe
+C:\Users\Admin\OneDrive\Documents\.NET Tasks\ThirdTask\ThirdTask\obj\Debug\ThirdTask.pdb
